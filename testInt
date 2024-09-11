@@ -1,3 +1,17 @@
 Information on testing anf intergration
 Part of the importance of testing and Intergration is because it helps verify
 that the systems meets the functional requirements and works as expected
+
+
+### Why Perform Integration Testing?
+
+- Incompatibility between software modules can cause errors
+- Developers must confirm that every software module can interact with the database
+- Requirements change, thanks to client input.
+- Every software developer has their understanding ad programming logic
+
+### An example of test Case Description
+The objective is to validate the log-in and the mailbox's module interface link
+The description would be "Enter the required log-in credentials and click the log-in button"
+
+
