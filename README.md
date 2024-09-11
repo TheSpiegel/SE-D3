@@ -31,7 +31,7 @@ cd SE-D3
 -
 
 ### Usage
-Provide examples and instructions on how to use the project. INclude code snippets if necessary.
+Provide examples and instructions on how to use the project. Include code snippets if necessary.
 
 ```bash
 # Example Command
